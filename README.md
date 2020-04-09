@@ -1,2 +1,1 @@
-# bkce_study
-蓝鲸智云学习使用
+开发框架2.0使用说明：https://docs.bk.tencent.com/blueapps/USAGE.html
