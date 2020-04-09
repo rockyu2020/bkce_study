@@ -8,7 +8,7 @@ Django==1.11.2
 PyMySQL==0.6.7
 MarkupSafe==1.0
 Mako==1.0.6
-requests==2.18.1
+requests==2.20.0
 celery==3.1.25
 django-celery==3.2.1
 python-json-logger==0.1.7
